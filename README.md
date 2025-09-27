@@ -1,0 +1,1 @@
+I built a Movie Rating Prediction Project with an interactive Streamlit interface and rich visualizations to explore insights from data. Using a Random Forest Regressor, the model achieved 77.13% accuracy in predicting ratings, combining exploration and machine learning in one place.
